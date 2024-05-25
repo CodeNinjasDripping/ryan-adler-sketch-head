@@ -375,7 +375,6 @@
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/Destroyer.cs"
 "Assets/Scripts/GameController.cs"
-"Assets/Scripts/GameController2.cs"
 "Assets/Scripts/PlayerControls.cs"
 "Assets/Scripts/Restart.cs"
 "Assets/Scripts/Rotator.cs"
